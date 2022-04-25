@@ -1,1 +1,1 @@
-# Masters-Data-Mining
+# Masters-Data-Mining-Assignments
